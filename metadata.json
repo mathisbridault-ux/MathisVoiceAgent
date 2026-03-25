@@ -1,0 +1,5 @@
+{
+  "name": "Jackie - Mathis's Assistant",
+  "description": "A voice assistant named Jackie that speaks English and French with a British accent, providing information about Mathis Bridault.",
+  "requestFramePermissions": ["microphone"]
+}
